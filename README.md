@@ -1,3 +1,5 @@
+This is the project I collaborated on for group coursework for my software engineering group project module
+
 # Project Setup Guide
 
 
